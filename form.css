@@ -1,0 +1,55 @@
+#main{
+background: lightseagreen;
+text-align: center;
+}
+header{
+	background: lightgreen;
+	height: :10vh;
+	padding: 1%;
+	margin: 1%;
+}
+#main a{
+	text-decoration: none;
+}
+#main button{
+	background:lightcyan;
+}
+.profile{
+	color:red;
+}
+#form{
+	background: lightcyan;
+	text-align: center;
+}
+.main{
+	background:beige;
+	margin: 2%;
+	padding: 2%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.sub{
+	width:92%;
+	background: pink;
+	margin:1%;
+	padding: 1%;
+	border-radius: 6%;
+}
+.sub1{
+	width:45%;
+	background: aqua;
+	margin:1%;
+	padding: 1%;
+	border-radius: 10%;
+}
+input,select{
+	width:90%;
+	margin:1%;
+}
+button{
+	width:10%;
+	border-radius: 50%;
+	height:15%;
+}
